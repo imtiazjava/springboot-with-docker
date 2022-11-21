@@ -8,7 +8,7 @@
 ```
 - docker run -p 8080:1122 springboot-docker-demo:1.0
 ```
-- And finally open the browser the following the below url:
+- And finally open the browser and use  the below url:
 ```
 http://localhost:8080/api/msg
 ```
